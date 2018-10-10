@@ -1,0 +1,285 @@
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessLogic\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessLogic\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessLogic\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\DataAccess.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\UserCode.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\UserCode.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\DataAccess.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\UserCode.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\BusinessEntity.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\UserCode.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb

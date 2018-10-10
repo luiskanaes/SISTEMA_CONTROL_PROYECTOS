@@ -1,0 +1,942 @@
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareo.resources
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmLogin.resources
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmMain.resources
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\bin\Debug\WinForms.exe.config
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\bin\Debug\WinForms.exe
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\bin\Debug\WinForms.pdb
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\obj\Debug\WinForms.exe
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\obj\Debug\WinForms.pdb
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\obj\Debug\WinForms.FrmEstadoDiario.resources
+D:\SISTEMAS SSK\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrilla.resources
+D:\LINK\DEMO\SolSystem\WinForms\bin\Debug\WinForms.exe.config
+D:\LINK\DEMO\SolSystem\WinForms\obj\Debug\WinForms.exe
+D:\LINK\DEMO\SolSystem\WinForms\obj\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareo.resources
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrilla.resources
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.FrmEstadoDiario.resources
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmLogin.resources
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmMain.resources
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.MaestroPersonal.resources
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\WinForms.exe.config
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmTareoDiario.resources
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmAsignacionPersonal.resources
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmAsociarPersonal.resources
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmProgramacion.resources
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmTareas.resources
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmPersonalSinTareo.resources
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmProcesarTareo.resources
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmCronograma.resources
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmCalendario.resources
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\WinForms\obj\Debug\WinForms.frmEfecto.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\WinForms.exe.config
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.xml
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmAsignacionPersonal.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmAsociarPersonal.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmCalendario.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareo.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmCronograma.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrilla.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmEfecto.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.FrmEstadoDiario.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmLogin.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmMain.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmPersonalSinTareo.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmProcesarTareo.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmProgramacion.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmTareas.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmTareoDiario.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.MaestroPersonal.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmMigracionTareo.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.Personal.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmExcesoHoras.resources
+D:\SISTEMAS SSK\TAREO\SolSystem\WinForms\obj\Debug\WinForms.frmIndicadores.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\WinForms.exe.config
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmAsignacionPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmAsociarPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmAvances.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmCalendario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmCronograma.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrilla.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmDisciplinaEstructura.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmEfecto.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.FrmEstadoDiario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmExcesoHoras.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmIndicadores.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmLogin.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmMain.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmMigracionTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmPersonalSinTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmProcesarTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmProgramacion.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmTareas.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmTareoDiario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.MaestroPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.Personal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\RdlCompile.cache
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\RdlCompile.compiled
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\WinForms\obj\Debug\WinForms.frmEstructuraConsumo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\WinForms.exe.config
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmAsignacionPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmAsociarPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmAvances.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmCalendario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmCronograma.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrilla.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmDisciplinaEstructura.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmEfecto.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.FrmEstadoDiario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmEstructuraConsumo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmExcesoHoras.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmIndicadores.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmLogin.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmMain.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmMigracionTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmPersonalSinTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmProcesarTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmProgramacion.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmTareas.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.frmTareoDiario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.MaestroPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.Personal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\RdlCompile.cache
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\WinForms\obj\Debug\RdlCompile.compiled
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\WinForms.exe.config
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmAsignacionPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmAsociarPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmAvances.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmAvancesObrero.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmBuscarPersona.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmCalendario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareoReporte.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmCronograma.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrilla.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmDisciplinaEstructura.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmEfecto.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.FrmEstadoDiario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmEstructuraConsumo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmExcesoHoras.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmIndicadores.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmLogin.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmMain.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmMigracionTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmPersonalSinTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmProcesarTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmProgramacion.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmTareas.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.frmTareoDiario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.IngenieroAvance.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.MaestroPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.Personal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\RdlCompile.cache
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\RdlCompile.compiled
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\WinForms\obj\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\WinForms.exe.config
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmAsignacionPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmAsociarPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmAvances.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmAvancesObrero.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmBuscarPersona.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmCalendario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareoReporte.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmCronograma.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrilla.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmDiasTrabajo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmDisciplinaEstructura.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmEfecto.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.FrmEstadoDiario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmEstructuraConsumo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmExcesoHoras.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmIndicadores.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmLiberarResponsable.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmLogin.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmMain.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmMigracionTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmPersonalSinTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmProcesarTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmProgramacion.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmTareas.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.frmTareoDiario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.IngenieroAvance.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.MaestroPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.Personal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\RdlCompile.cache
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\RdlCompile.compiled
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\WinForms\obj\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\WinForms.exe.config
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmAsignacionPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmAsociarPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmAvances.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmAvancesObrero.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmBuscarPersona.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmCalendario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareoReporte.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareoTodo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmCronograma.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrilla.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmDiasTrabajo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmDisciplinaEstructura.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmEfecto.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.FrmEstadoDiario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmEstructuraConsumo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmExcesoHoras.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmIndicadores.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmLiberarResponsable.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmLogin.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmMain.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmManPower.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmMigracionTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmPersonalSinTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmProcesarTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmProgramacion.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmTareas.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.frmTareoDiario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.IngenieroAvance.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.MaestroPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.Personal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\RdlCompile.cache
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\RdlCompile.compiled
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\WinForms\obj\Debug\WinForms.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\WinForms.exe.config
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.exe
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\WinForms.exe
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\WinForms.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\BusinessEntity.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\BusinessLogic.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\UserCode.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\DataAccess.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\BusinessEntity.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\BusinessLogic.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\UserCode.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.xml
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\DataAccess.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmAsignacionPersonal.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmAsociarPersonal.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmAvances.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmAvancesObrero.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmBuscarPersona.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmCalendario.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareoReporte.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareoTodo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmCronograma.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrilla.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmDiasTrabajo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmDisciplinaEstructura.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmEfecto.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.FrmEstadoDiario.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmEstructuraConsumo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmExcesoHoras.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmIndicadores.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmLiberarResponsable.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmLogin.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmMain.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmManPower.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmMigracionTareo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmPersonalSinTareo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmProcesarTareo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmProgramacion.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmTareas.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmTareoDiario.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.IngenieroAvance.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.MaestroPersonal.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.Personal.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\RdlCompile.cache
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\RdlCompile.compiled
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO\REPORTE CUENTAS DE CONTROL\SolSystem\WinForms\obj\Debug\WinForms.frmListaCuentasControl.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\WinForms.exe.config
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\Calendar.NET.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmAsignacionPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmAsociarPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmAvances.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmAvancesObrero.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmBuscarPersona.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmCalendario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareoReporte.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareoTodo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmCronograma.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrilla.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmDiasTrabajo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmDisciplinaEstructura.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmEfecto.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.FrmEstadoDiario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmEstructuraConsumo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmExcesoHoras.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmFeriados.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmHHDiario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmIndicadores.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmLiberarResponsable.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmListaCuentasControl.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmLogin.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmMain.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmManPower.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmManPowerCuadrilla.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmMigracionTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmPersonalSinTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmProcesarTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmProgramacion.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmTareas.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmTareoDiario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.IngenieroAvance.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.MaestroPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.Personal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\RdlCompile.cache
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\RdlCompile.compiled
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmManPowerEspecialidad.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.Logistica.Solped.resources
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.Logistica.AgregarPEP.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\WinForms.exe.config
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\WinForms.exe
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\WinForms.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\BusinessLogic.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\Calendar.NET.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\DataAccess.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\BusinessLogic.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\DataAccess.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmAsignacionPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmAsociarPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmAvances.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmAvancesObrero.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmBuscarPersona.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmCalendario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareoReporte.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareoTodo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmCronograma.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrilla.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmDiasTrabajo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmDisciplinaEstructura.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmEfecto.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.FrmEstadoDiario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmEstructuraConsumo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmExcesoHoras.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmFeriados.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmHHDiario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmIndicadores.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmLiberarResponsable.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmListaCuentasControl.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmLogin.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmMain.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmManPower.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmManPowerCuadrilla.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmManPowerEspecialidad.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmMigracionTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmPersonalSinTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmProcesarTareo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmProgramacion.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmTareas.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmTareoDiario.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.IngenieroAvance.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.Logistica.AgregarPEP.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.Logistica.Solped.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.MaestroPersonal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.Personal.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\RdlCompile.cache
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\RdlCompile.compiled
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrillaObrero.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrillaVarios.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.Logistica.RptSolped.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.RptHHPeriodo.resources
+D:\SISTEMAS SSK\TAREO\VERSION 8\SolSystem\SolSystem\WinForms\obj\Debug\WinForms.RptControlHH_Indicador.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\WinForms.exe.config
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\WinForms.exe
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\WinForms.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\BusinessEntity.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\BusinessLogic.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\UserCode.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\DataAccess.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\BusinessEntity.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\BusinessLogic.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\UserCode.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.xml
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\DataAccess.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmAsignacionPersonal.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmAsociarPersonal.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmAvances.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmAvancesObrero.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmBuscarPersona.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmCalendario.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareo.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareoReporte.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareoTodo.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmCronograma.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrilla.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrillaObrero.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrillaVarios.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmDiasTrabajo.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmDisciplinaEstructura.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmEfecto.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.FrmEstadoDiario.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmEstructuraConsumo.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmExcesoHoras.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmFeriados.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmHHDiario.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmIndicadores.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmLiberarResponsable.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmListaCuentasControl.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmLogin.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmMain.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmManPower.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmManPowerCuadrilla.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmManPowerEspecialidad.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmMigracionTareo.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmPersonalSinTareo.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmProcesarTareo.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmProgramacion.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmTareas.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmTareoDiario.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmTareoSemanal.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.IngenieroAvance.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.Logistica.AgregarPEP.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.Logistica.RptSolped.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.Logistica.Solped.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.MaestroPersonal.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.Personal.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.RptControlHH_Indicador.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.RptHHPeriodo.resources
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\RdlCompile.cache
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\RdlCompile.compiled
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.exe
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.pdb
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\RRHH\MIGRACION\SolSystem\WinForms\obj\Debug\WinForms.frmTareo_Empleados.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\WinForms.exe.config
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\WinForms.exe
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\WinForms.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\BusinessEntity.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\BusinessLogic.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\UserCode.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\DataAccess.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\BusinessEntity.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\BusinessLogic.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\UserCode.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.xml
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\DataAccess.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmAsignacionPersonal.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmAsociarPersonal.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmAvances.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmAvancesObrero.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmBuscarPersona.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmCalendario.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareoReporte.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareoTodo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmCronograma.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrilla.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrillaObrero.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrillaVarios.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmDiasTrabajo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmDisciplinaEstructura.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmEfecto.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.FrmEstadoDiario.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmEstructuraConsumo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmExcesoHoras.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmFeriados.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmHHDiario.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmIndicadores.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmLiberarResponsable.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmListaCuentasControl.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmLogin.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmMain.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmManPower.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmManPowerCuadrilla.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmManPowerEspecialidad.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmMigracionTareo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmPersonalSinTareo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmProcesarTareo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmProgramacion.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmTareas.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmTareoDiario.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmTareoSemanal.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.frmTareo_Empleados.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.IngenieroAvance.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.Logistica.AgregarPEP.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.Logistica.RptSolped.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.Logistica.Solped.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.MaestroPersonal.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.Personal.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.RptControlHH_Indicador.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.RptHHPeriodo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\RdlCompile.cache
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\RdlCompile.compiled
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.exe
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\TAREO EMPLEADOS\SolSystem\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\WinForms.exe.config
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\WinForms.exe.manifest
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\WinForms.application
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\WinForms.exe
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\WinForms.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\BusinessEntity.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\BusinessLogic.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\UserCode.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\DataAccess.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\BusinessEntity.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\BusinessLogic.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\UserCode.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.common.xml
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\microsoft.practices.enterpriselibrary.logging.xml
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\DataAccess.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmAsignacionPersonal.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmAsociarPersonal.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmAvances.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmAvancesObrero.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmBuscarPersona.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmCalendario.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmCargaMasivaColumnas.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmCargaMasivaColumnasSpool.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareoReporte.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmControlTareoTodo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmCronograma.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrilla.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrillaObrero.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmCuadrillaVarios.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmDiasTrabajo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmDisciplinaEstructura.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmEfecto.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.FrmEstadoDiario.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmEstructuraConsumo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmExcesoHoras.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmFeriados.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmHHDiario.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmIndicadores.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmLiberarResponsable.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmListaCuentasControl.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmLogin.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmMain.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmManPower.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmManPowerCuadrilla.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmManPowerEspecialidad.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmMigracionTareo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmMostrarDocumentos.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmPersonalSinTareo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmProcesarTareo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmProgramacion.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmRegistrarIsometrico.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmRegistroAlmacen.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmRegistroAvance.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmRegistroDatosSoldadura.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmRegistroDatosSPool.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmRegistroEnsayos.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmRegistroJuntasSoldadas.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmRegistroNuevaJunta.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmRegistroServicioAislamiento.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmRegistroServicioPintura.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmRegistroServicioTraceado.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmReporteBaseEnsayosPendientes.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmReporteEnsayos.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmReporteEnsayosPendientes.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmReporteFormatoTRPruebasHidraulicas.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmReporteIV.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmReportePaquetePruebas.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmReportesGenerador.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmReportesGeneradorSpool.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmReporteSoldaduras.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmTareas.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmTareoDiario.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmTareoSemanal.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmTareo_Empleados.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmValidarJuntasNuevas.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.IngenieroAvance.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.Logistica.AgregarPEP.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.Logistica.RptSolped.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.Logistica.Solped.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.MaestroPersonal.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.Personal.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.RptControlHH_Indicador.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.RptHHPeriodo.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.exe.manifest
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.application
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.exe
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.pdb
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmActualizarTestPack.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmRegistroNuevaSpool.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmActualizarJunta.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\WinForms.frmConsultaDatosSoldadura.resources
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\RdlCompile.cache
+D:\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\SolSystem\WinForms\obj\Debug\RdlCompile.compiled
+D:\SSK\DESARROLLO\PROYECTO\CGO\SISTEMA CONTROL PROYECTOS\SolSystem\WinForms\bin\Debug\WinForms.exe.config
+D:\SSK\DESARROLLO\PROYECTO\CGO\SISTEMA CONTROL PROYECTOS\SolSystem\WinForms\obj\Debug\WinForms.exe
+D:\SSK\DESARROLLO\PROYECTO\CGO\SISTEMA CONTROL PROYECTOS\SolSystem\WinForms\obj\Debug\WinForms.pdb
